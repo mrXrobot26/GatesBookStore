@@ -1,0 +1,44 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "bootstrap-icons@1.11.1",
+      "destination": "wwwroot/lib/bootstrap-icons/",
+      "files": [
+        "font/fonts/bootstrap-icons.woff",
+        "font/fonts/bootstrap-icons.woff2",
+        "font/bootstrap-icons.css",
+        "font/bootstrap-icons.json",
+        "font/bootstrap-icons.min.css"
+      ]
+    },
+    {
+      "library": "toastr.js@2.1.4",
+      "destination": "wwwroot/toastr.js/",
+      "files": [
+        "toastr.min.js",
+        "toastr.css",
+        "toastr.js.map",
+        "toastr.min.css"
+      ]
+    },
+    {
+      "library": "toast-css@1.1.0",
+      "destination": "wwwroot/lib/toast-css/",
+      "files": [
+        "grid.min.css",
+        "grid.css",
+        "grid.css.map"
+      ]
+    },
+    {
+      "library": "datatables@1.10.21",
+      "destination": "wwwroot/lib/datatables/"
+    },
+    {
+      "library": "sweetalert2@11.7.29",
+      "destination": "wwwroot/lib/sweetalert2/"
+    }
+  ]
+}

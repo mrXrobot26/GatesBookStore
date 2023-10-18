@@ -1,0 +1,49 @@
+﻿@model List<Product>
+
+
+<div class="container">
+    <div class="row pt-4 pb-2">
+        <div class="col-6">
+            <h2 class="text-primary">
+                Product List
+            </h2>
+        </div>
+        <div class="col-6 text-end">
+            <a asp-controller="Product" asp-action="Upsert" class="btn btn-primary">
+                <i class="bi bi-plus-square-fill"></i> Create New Product
+            </a>
+
+        </div>
+    </div>
+    <table id="tbldata" class="table  table-bordered table-striped "width="100%">
+        <thead>
+            <tr>
+                <th>
+                    Product Titel
+                </th>
+               
+                <th>
+                     ISBN
+                </th>
+                <th>
+                     Author
+                </th>
+                <th>
+                     Price
+                </th>
+                <th>
+                    Category
+                </th>
+                <th>
+
+                </th>
+
+            </tr>
+
+        </thead>
+       
+    </table>
+</div> 
+@section Scripts{
+    <script src="~/js/Product.js"></script>
+}
