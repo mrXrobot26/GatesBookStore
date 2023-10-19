@@ -64,6 +64,30 @@ an immersive movie browsing experience, providing enhanced security for user acc
 
    * Manage Order
      ![Web capture_19-10-2023_165543_localhost](https://github.com/mrXrobot26/GatesBookStore/assets/118698085/7a8ad3f1-2405-41d3-88ea-e4047a67ad68)
+       * Edit Manage Oreder
+         ![Web capture_19-10-2023_165818_localhost](https://github.com/mrXrobot26/GatesBookStore/assets/118698085/a9260444-5cb1-4f73-b399-217d32ef68c4)
+         * Start Processing
+           ![image](https://github.com/mrXrobot26/GatesBookStore/assets/118698085/3d6cd6ef-a157-4749-a966-efbcb952af65)
+         * Start Shipping (need carrier and Tracking)
+           ![image](https://github.com/mrXrobot26/GatesBookStore/assets/118698085/7ba9fc09-22f2-4ceb-b54b-58fab02f83cb)
+           ![image](https://github.com/mrXrobot26/GatesBookStore/assets/118698085/f0dd6d54-6240-41d7-bf41-a00273f28d17)
+           * Shipped
+           ![image](https://github.com/mrXrobot26/GatesBookStore/assets/118698085/8ac34630-4428-41d4-8d24-f43a77fde776)
+
+   * Manage your account
+     ![image](https://github.com/mrXrobot26/GatesBookStore/assets/118698085/bed3462e-2410-4929-a900-930bbeed6b3c)
+     ![image](https://github.com/mrXrobot26/GatesBookStore/assets/118698085/289769aa-a813-4881-9a5b-2ceb25b6a10b)
+     ![image](https://github.com/mrXrobot26/GatesBookStore/assets/118698085/c8a67a17-5fc0-4c63-bae1-2f3aa25a5c25)
+     ![image](https://github.com/mrXrobot26/GatesBookStore/assets/118698085/83da2de0-b464-4b26-afc9-d89258e30072)
+       * Download
+         ![image](https://github.com/mrXrobot26/GatesBookStore/assets/118698085/04865277-6b37-42f9-95c4-9213d5920c0a)
+
+
+
+
+
+
+
 
 
 
