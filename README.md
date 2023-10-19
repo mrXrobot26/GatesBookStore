@@ -41,7 +41,7 @@ an immersive movie browsing experience, providing enhanced security for user acc
 
   * Login
     ![image](https://github.com/mrXrobot26/GatesBookStore/assets/118698085/ba0c227f-6a33-433f-8059-6f2c9856d777)
-  *Register
+  * Register
  ![Web capture_19-10-2023_164948_localhost](https://github.com/mrXrobot26/GatesBookStore/assets/118698085/deeae248-11f0-4615-ac3c-805c941245aa)
 
 * Only Admin Acess It
