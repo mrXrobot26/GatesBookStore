@@ -5,7 +5,7 @@ Developed a user-friendly interface with seamless navigation, advanced search fu
 
 an immersive movie browsing experience, providing enhanced security for user accounts and data.
 
-#Technologies used 
+# Technologies used 
 Front-End:
 
 HTML
