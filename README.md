@@ -21,4 +21,7 @@ an immersive movie browsing experience, providing enhanced security for user acc
 * design patterns
   * Repository Pattern
   * unit of work Pattern
+  * Dependency injection 
 
+*architecture
+  * n-tier architecture
