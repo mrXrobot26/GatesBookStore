@@ -31,7 +31,7 @@ an immersive movie browsing experience, providing enhanced security for user acc
 ![image](https://github.com/mrXrobot26/GatesBookStore/assets/118698085/a10702c5-d3bd-46f5-920f-7a8b3c8aa87f)
 ![image](https://github.com/mrXrobot26/GatesBookStore/assets/118698085/0cb1d7d8-c684-4b58-b2c5-e621aca8e74a)
 
-#ScreenShots From Project
+# ScreenShots From Project
 
   * Home Page
     ![Web capture_19-10-2023_163917_localhost](https://github.com/mrXrobot26/GatesBookStore/assets/118698085/97edb580-f5af-4cac-9628-6199f2d37f7b)
