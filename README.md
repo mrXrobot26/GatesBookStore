@@ -13,10 +13,10 @@ an immersive movie browsing experience, providing enhanced security for user acc
   * BootStrap
 
 * Back-End
- * C#
- * ASP.NET Core (7)
- * MVC Pattern
- * MS SQL Server
+  * C#
+  * ASP.NET Core (7)
+  * MVC Pattern
+  * MS SQL Server
 
 * design patterns
   * Repository Pattern
