@@ -23,9 +23,10 @@ an immersive movie browsing experience, providing enhanced security for user acc
   * unit of work Pattern
   * Dependency injection 
 
-* architecture
-  * n-tier architecture
 * Identity
+  
+# architecture
+  * n-tier architecture
 
 # DataBase
 ![image](https://github.com/mrXrobot26/GatesBookStore/assets/118698085/a10702c5-d3bd-46f5-920f-7a8b3c8aa87f)
