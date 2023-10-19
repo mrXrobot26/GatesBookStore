@@ -6,13 +6,13 @@ Developed a user-friendly interface with seamless navigation, advanced search fu
 an immersive movie browsing experience, providing enhanced security for user accounts and data.
 
 # Technologies used 
-Front-End:
+*Front-End:
 
-HTML
-CSS
-JavaScript
-BootStrap
-Back-End
+  *HTML
+  *CSS
+  *JavaScript
+  *BootStrap
+*Back-End
 
 C#
 ASP.NET Core (7)
